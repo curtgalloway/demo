@@ -1,7 +1,9 @@
-initial readme file
+# Initial readme file
 
 How about a vacation in Sweden?
 
-Sweden? How about Finland?
+Sweden? How about *Finland*?
 
-Nope - no time for vacation, I have to do French and Esperanto stuff! 
+Ok, French and Esperanto stuff have now been added. It may be time for a vacation. 
+
+
