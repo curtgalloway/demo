@@ -5,4 +5,3 @@ Ma grand-mère *habite* en France.
 La voiture de Paul est **laid**. 
 
 ![Le même fraise](/resources/fraise.jpg)
-Format: ![Alt Text](url)
